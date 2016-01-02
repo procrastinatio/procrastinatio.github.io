@@ -1,3 +1,8 @@
+---
+layout: post
+title: Only a test
+---
+
 ## Title
 
 ### Subtitle
